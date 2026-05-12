@@ -1,0 +1,14 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Model & Data (الخيار لك لو أردت رفعهم، لكن يفضل استبعاد الملفات الضخمة)
+# *.pkl
+# *.csv
