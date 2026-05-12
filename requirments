@@ -1,0 +1,6 @@
+pandas
+numpy
+scikit-learn
+xgboost
+flask  # أو streamlit حسب ما استخدمت في الـ deployment
+gunicorn
